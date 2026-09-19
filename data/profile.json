@@ -1,0 +1,32 @@
+{
+  "username": "eleshkapri",
+  "name": "Elesh Kapri",
+  "prompt": "esk@github",
+  "ascii": {
+    "fallback_text": "ESK"
+  },
+  "card": {
+    "title": "esk@github: ~ — neofetch",
+    "host": "esk@github",
+    "rows": [
+      { "key": "Name", "value": "Elesh Kapri (ESK)" },
+      { "key": "Now", "value": "Final-year B.Tech CSE (AI/ML)" },
+      { "key": "Seeking", "value": "Entry-level software engineer roles" },
+      { "key": "Prev", "value": [
+        "AI/ML Intern · AICTE × Edunet/IBM SkillsBuild",
+        "Cybersecurity + GenAI Intern · Vodafone Idea Foundation × AICTE",
+        "Web Developer Intern · ADM Education & Welfare Society"
+      ] },
+      { "key": "Stack", "value": "Python · JavaScript · React · Vue.js" },
+      { "key": "Also", "value": "Java · C++ · Figma" },
+      { "key": "Highlights", "value": [
+        "Job Grid · job-apply autofill + tracker",
+        "Atmosphere · orbital weather dashboard",
+        "AI Travel Planner · Llama 3 via Groq",
+        "E-Voting · Ethereum + biometric verification"
+      ] },
+      { "key": "Web", "value": "elesh.dev" },
+      { "key": "LinkedIn", "value": "in/elesh-kapri" }
+    ]
+  }
+}

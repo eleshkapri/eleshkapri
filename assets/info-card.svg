@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="457" viewBox="0 0 490 457" role="img" aria-labelledby="t">
+<title id="t">Elesh Kapri - profile card</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;font-size:12px;fill:#c9d1d9;white-space:pre}
+.k{fill:#58a6ff;font-weight:700} .m{fill:#8b949e} .h{fill:#7ee787;font-weight:700}
+.l{animation:in .45s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.l{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="489" height="456" rx="10" fill="#0d1117" stroke="#30363d"/>
+<line x1="1" y1="34" x2="489" y2="34" stroke="#30363d"/>
+<circle cx="20" cy="17.0" r="5.5" fill="#ff5f56"/>
+<circle cx="38" cy="17.0" r="5.5" fill="#ffbd2e"/>
+<circle cx="56" cy="17.0" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="21.0" text-anchor="middle" class="m">esk@github: ~ — neofetch</text>
+<text x="24" y="68" class="h l" style="animation-delay:0.25s">esk@github</text>
+<text x="24" y="87" class="m l" style="animation-delay:0.34s">----------</text>
+<text x="24" y="108" class="k l" style="animation-delay:0.43s">Name<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="108" class="l" style="animation-delay:0.43s">Elesh Kapri (ESK)</text>
+<text x="24" y="127" class="k l" style="animation-delay:0.52s">Now<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="127" class="l" style="animation-delay:0.52s">Final-year B.Tech CSE (AI/ML)</text>
+<text x="24" y="146" class="k l" style="animation-delay:0.61s">Seeking<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="146" class="l" style="animation-delay:0.61s">Entry-level software engineer roles</text>
+<text x="24" y="165" class="k l" style="animation-delay:0.70s">Prev<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="165" class="m l" style="animation-delay:0.70s">›</text>
+<text x="132" y="165" class="l" style="animation-delay:0.70s">AI/ML Intern · AICTE × Edunet/IBM SkillsBuild</text>
+<text x="118" y="184" class="m l" style="animation-delay:0.79s">›</text>
+<text x="132" y="184" class="l" style="animation-delay:0.79s">Cybersecurity + GenAI Intern · Vodafone Idea</text>
+<text x="132" y="203" class="l" style="animation-delay:0.88s">Foundation × AICTE</text>
+<text x="118" y="222" class="m l" style="animation-delay:0.97s">›</text>
+<text x="132" y="222" class="l" style="animation-delay:0.97s">Web Developer Intern · ADM Education &amp; Welfare</text>
+<text x="132" y="241" class="l" style="animation-delay:1.06s">Society</text>
+<text x="24" y="260" class="k l" style="animation-delay:1.15s">Stack<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="260" class="l" style="animation-delay:1.15s">Python · JavaScript · React · Vue.js</text>
+<text x="24" y="279" class="k l" style="animation-delay:1.24s">Also<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="279" class="l" style="animation-delay:1.24s">Java · C++ · Figma</text>
+<text x="24" y="298" class="k l" style="animation-delay:1.33s">Highlights<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="298" class="m l" style="animation-delay:1.33s">›</text>
+<text x="132" y="298" class="l" style="animation-delay:1.33s">Job Grid · job-apply autofill + tracker</text>
+<text x="118" y="317" class="m l" style="animation-delay:1.42s">›</text>
+<text x="132" y="317" class="l" style="animation-delay:1.42s">Atmosphere · orbital weather dashboard</text>
+<text x="118" y="336" class="m l" style="animation-delay:1.51s">›</text>
+<text x="132" y="336" class="l" style="animation-delay:1.51s">AI Travel Planner · Llama 3 via Groq</text>
+<text x="118" y="355" class="m l" style="animation-delay:1.60s">›</text>
+<text x="132" y="355" class="l" style="animation-delay:1.60s">E-Voting · Ethereum + biometric verification</text>
+<text x="24" y="374" class="k l" style="animation-delay:1.69s">Web<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="374" class="l" style="animation-delay:1.69s">elesh.dev</text>
+<text x="24" y="393" class="k l" style="animation-delay:1.78s">LinkedIn<tspan class="m" font-weight="400">:</tspan></text>
+<text x="118" y="393" class="l" style="animation-delay:1.78s">in/elesh-kapri</text>
+<rect x="24" y="420" width="16" height="16" rx="3" fill="#ff5f56" class="l" style="animation-delay:1.87s"/>
+<rect x="44" y="420" width="16" height="16" rx="3" fill="#ffbd2e" class="l" style="animation-delay:1.87s"/>
+<rect x="64" y="420" width="16" height="16" rx="3" fill="#27c93f" class="l" style="animation-delay:1.87s"/>
+<rect x="84" y="420" width="16" height="16" rx="3" fill="#58a6ff" class="l" style="animation-delay:1.87s"/>
+<rect x="104" y="420" width="16" height="16" rx="3" fill="#d2a8ff" class="l" style="animation-delay:1.87s"/>
+<rect x="124" y="420" width="16" height="16" rx="3" fill="#ffa657" class="l" style="animation-delay:1.87s"/>
+<rect x="144" y="420" width="16" height="16" rx="3" fill="#7ee787" class="l" style="animation-delay:1.87s"/>
+<rect x="164" y="420" width="16" height="16" rx="3" fill="#c9d1d9" class="l" style="animation-delay:1.87s"/>
+</svg>
