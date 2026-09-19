@@ -53,6 +53,18 @@ def main() -> None:
     out = gray.astype(np.float32)
     if alpha is not None:
         out = out * alpha + backdrop * (1.0 - alpha)
+        rows = np.any(alpha > 0.05, axis=1)
+        cols = np.any(alpha > 0.05, axis=0)
+        if np.any(rows) and np.any(cols):
+            rmin, rmax = np.where(rows)[0][[0, -1]]
+            cmin, cmax = np.where(cols)[0][[0, -1]]
+            pad_y = max(2, int((rmax - rmin) * 0.03))
+            pad_x = max(2, int((cmax - cmin) * 0.03))
+            rmin = max(0, rmin - pad_y)
+            rmax = min(out.shape[0] - 1, rmax + pad_y)
+            cmin = max(0, cmin - pad_x)
+            cmax = min(out.shape[1] - 1, cmax + pad_x)
+            out = out[rmin : rmax + 1, cmin : cmax + 1]
 
     PHOTO.mkdir(exist_ok=True)
     dest = PHOTO / "source-prepped.png"
