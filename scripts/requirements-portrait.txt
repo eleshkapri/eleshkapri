@@ -1,5 +1,0 @@
-# Only needed locally, when you change your photo
-pillow
-numpy
-opencv-python
-rembg[cpu]

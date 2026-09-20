@@ -1,3 +1,4 @@
-# Needed by the daily GitHub Action (and for everything except the photo pipeline)
-requests==2.32.3
-beautifulsoup4==4.12.3
+pillow
+numpy
+opencv-python
+rembg[cpu]

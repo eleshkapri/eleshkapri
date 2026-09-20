@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-# keep your raw photo local unless you decide otherwise
-photo/*
-!photo/.gitkeep
+photo/
+*.png
+*.jpg
+*.jpeg
